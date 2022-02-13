@@ -60,4 +60,4 @@ Pull requests are welcome, update tests as appropriate.
 
 ## Type Detail Source
 
-Additional Types found from the Java based - [https://gitlab.com/eladmaz/SSL-API](SSL-API)
+Additional Types found from the Java based - [SSL-API](https://gitlab.com/eladmaz/SSL-API)
