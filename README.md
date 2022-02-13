@@ -1,3 +1,5 @@
+Temp fork until approach decided
+
 # Serato Parser
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/SpinTools/seratoparser)](https://goreportcard.com/report/github.com/SpinTools/seratoparser)
@@ -55,3 +57,7 @@ Pull requests are welcome, update tests as appropriate.
 ## License
 
 [MIT](https://github.com/SpinTools/seratoparser/LICENSE)
+
+## Type Detail Source
+
+Additional Types found from the Java based - [https://gitlab.com/eladmaz/SSL-API](SSL-API)

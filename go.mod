@@ -1,4 +1,4 @@
-module github.com/SpinTools/seratoparser
+module github.com/robyeates/seratoparser
 
 go 1.16
 
